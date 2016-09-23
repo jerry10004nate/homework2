@@ -12,6 +12,7 @@ class A01 {
 		System.out.print("나이를 입력:");
 		int year = s.nextInt();
 		this.age = 2016 - year + 1;	
+		print();
 	}
 
 	void print(){
