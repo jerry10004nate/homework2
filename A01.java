@@ -18,8 +18,7 @@ class A01 {
 	void print(){
 		if(age < 20)
 			System.out.println("미성년자입니다.");
-		else
-	
+		else	
 			System.out.println("미성년자가 아닙니다.");
 	}
 }
