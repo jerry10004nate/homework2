@@ -1,4 +1,5 @@
 import java.util.*;
+//jerry1004 nate.com
 class A01 {
 	int age = 0;
 
